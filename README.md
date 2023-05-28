@@ -56,8 +56,15 @@ git flow feature finish <feature_name>
 git flow hotfix finish <hotfix_name>
 ```
 
-### Push a release
+### Push the changes
 
 ```bash
-git flow release publish <release_name>
+git push --all
+```  
+
+or
+
+```bash
+git push origin develop
+git push origin main --tags
 ```

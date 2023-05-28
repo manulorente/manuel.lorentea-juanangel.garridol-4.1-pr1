@@ -5,7 +5,7 @@
 
 	<groupId>es.urjc.code</groupId>
 	<artifactId>manuel.lorente-juanangel.garrido</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
